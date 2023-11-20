@@ -23,8 +23,9 @@ body {
     font-weight: 700;
 }
 
-.navlinks {
-    display: inline-block;
+.nav-right {
+    display: inline-flex;
+    gap: 10px;
 }
 
 .nav-link {
